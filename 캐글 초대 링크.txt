@@ -1,0 +1,21 @@
+https://www.kaggle.com/competitions/posco-aibigdata-19-nlp
+
+
+
+
+19기 AI/BigData 아카데미의 자연어처리 과목의 평가를 위한 kaggle competition 입니다.
+
+Task info
+Task: Classify KLUE-TC dataset (YNAT Dataset)
+Deadline: 9월 18일 11:59
+
+Rules
+개인과제 입니다.
+다른 수강생 분들과 토의하는 것은 괜찮으나, 다른 수강생 분의 코드를 그대로 가져다 쓰는 것은 금지됩니다.
+Evaluation 페이지의 안내를 따라 분류 결과를 제출해주시고, 코드를 PLMS 과제에 제출해주세요.
+평가는 Evaluation Result만으로 이뤄지며, 코드는 표절 검사 및 결과 검증을 위해서만 사용됩니다.
+모델 학습할 때 KLUE-TC Dataset 뿐만 아니라 다른 Dataset을 사용해도 됩니다.
+성적은 절대평가입니다. 등수는 평가에 전혀 반영되지 않습니다.
+Notification
+PLMS에 공지한 대로, 하단의 스프레드 시트의 자신의 Kaggle 닉네임을 알려주셔야 평가가 가능합니다. 닉네임을 알 수 없는 경우 미제출로 간주될 수 있습니다.
+스프레드 시트: https://docs.google.com/spreadsheets/d/1PeTxhgjBkXUljZ4gI0UjExCNrhCxg-3HU7QM3HIQ4n4/edit#gid=0
